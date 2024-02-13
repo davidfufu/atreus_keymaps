@@ -1,0 +1,7 @@
+
+
+#first compile
+qmk compile -kb atreus/astar_mirrored  -km fu
+
+#then flash 
+qmk flash -kb atreus/astar_mirrored  -km fu
